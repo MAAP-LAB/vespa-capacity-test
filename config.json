@@ -11,7 +11,8 @@
   "vespa_512": "VESPA head 512",
   "vespa_1024": "VESPA head 1024",
   "vespa_2048": "VESPA head 2048",
-  "vespa_4096": "VESPA head 4096"
+  "vespa_4096": "VESPA head 4096",
+  "vespa_wiener": "VESPA 1024 + Wiener"
  },
  "items": [
   {
@@ -23,7 +24,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -33,7 +35,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -45,7 +48,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -55,7 +59,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -67,7 +72,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -77,7 +83,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -89,7 +96,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -99,7 +107,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -111,7 +120,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -121,7 +131,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -133,7 +144,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -143,7 +155,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -155,7 +168,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -165,7 +179,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -177,7 +192,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -187,7 +203,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -199,7 +216,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -209,7 +227,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   },
   {
@@ -221,7 +240,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -231,7 +251,8 @@
     "vespa_512",
     "vespa_1024",
     "vespa_2048",
-    "vespa_4096"
+    "vespa_4096",
+    "vespa_wiener"
    ]
   }
  ],
