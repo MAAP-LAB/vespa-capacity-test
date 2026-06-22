@@ -1,0 +1,110 @@
+{
+  "rater": "Junyoung",
+  "timestamp": "2026-05-28T08:08:29.731Z",
+  "ratings": {
+    "ACS_p_C001_so_al_v1": {
+      "tfgridnet": 58,
+      "reference": 100,
+      "convtasnet": 38,
+      "sepformer": 42,
+      "anchor_mixture": 46,
+      "vespa": 88
+    },
+    "ACS_p_C001_so_al_v2": {
+      "vespa": 54,
+      "anchor_mixture": 32,
+      "convtasnet": 17,
+      "tfgridnet": 70,
+      "sepformer": 4,
+      "reference": 100
+    },
+    "ACS_p_C001_so_te_v1": {
+      "convtasnet": 43,
+      "reference": 100,
+      "anchor_mixture": 36,
+      "vespa": 80,
+      "tfgridnet": 74,
+      "sepformer": 47
+    },
+    "ACS_p_C001_so_te_v2": {
+      "vespa": 87,
+      "tfgridnet": 94,
+      "reference": 100,
+      "sepformer": 90,
+      "anchor_mixture": 76,
+      "convtasnet": 90
+    },
+    "ACS_p_C001_so_al_te_v1": {
+      "sepformer": 0,
+      "reference": 100,
+      "anchor_mixture": 39,
+      "tfgridnet": 54,
+      "convtasnet": 61,
+      "vespa": 80
+    },
+    "ACS_p_C001_so_al_te_v2": {
+      "anchor_mixture": 35,
+      "sepformer": 31,
+      "tfgridnet": 26,
+      "convtasnet": 0,
+      "reference": 100,
+      "vespa": 52
+    },
+    "ACS_p_C001_so_al_te_v3": {
+      "reference": 100,
+      "anchor_mixture": 32,
+      "sepformer": 60,
+      "convtasnet": 60,
+      "tfgridnet": 63,
+      "vespa": 62
+    },
+    "ACS_p_C001_so_al_ba_v1": {
+      "anchor_mixture": 36,
+      "convtasnet": 54,
+      "tfgridnet": 78,
+      "reference": 100,
+      "sepformer": 0,
+      "vespa": 92
+    },
+    "ACS_p_C001_so_al_ba_v2": {
+      "vespa": 73,
+      "anchor_mixture": 32,
+      "sepformer": 39,
+      "reference": 100,
+      "convtasnet": 65,
+      "tfgridnet": 44
+    },
+    "ACS_p_C001_so_al_ba_v3": {
+      "reference": 100,
+      "convtasnet": 0,
+      "tfgridnet": 81,
+      "anchor_mixture": 32,
+      "vespa": 74,
+      "sepformer": 47
+    },
+    "LI_FullChoir_Take01_v1": {
+      "anchor_mixture": 37,
+      "tfgridnet": 82,
+      "convtasnet": 68,
+      "sepformer": 97,
+      "vespa": 56,
+      "reference": 71
+    },
+    "LI_FullChoir_Take01_v2": {
+      "sepformer": 90,
+      "tfgridnet": 68,
+      "convtasnet": 63,
+      "vespa": 86,
+      "reference": 64,
+      "anchor_mixture": 55
+    },
+    "LI_FullChoir_Take01_v3": {
+      "reference": 93,
+      "convtasnet": 0,
+      "vespa": 0,
+      "sepformer": 0,
+      "anchor_mixture": 22,
+      "tfgridnet": 35
+    }
+  }
+}

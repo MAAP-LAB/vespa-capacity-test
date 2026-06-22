@@ -1,0 +1,86 @@
+{
+  "rater": "Junyoung",
+  "timestamp": "2026-05-27T16:40:12.702Z",
+  "ratings": {
+    "punk_rock_kaerutokumo_te_ba_v1": {
+      "sepformer": 92,
+      "vespa": 63,
+      "convtasnet": 91,
+      "reference": 100,
+      "tfgridnet": 67,
+      "anchor_mixture": 35
+    },
+    "punk_rock_kaerutokumo_te_ba_v2": {
+      "sepformer": 71,
+      "convtasnet": 78,
+      "anchor_mixture": 37,
+      "vespa": 48,
+      "tfgridnet": 64,
+      "reference": 100
+    },
+    "reggae_shoujoujinotanukibayashi_al_te_v1": {
+      "tfgridnet": 39,
+      "reference": 100,
+      "sepformer": 34,
+      "vespa": 88,
+      "anchor_mixture": 43,
+      "convtasnet": 40
+    },
+    "reggae_shoujoujinotanukibayashi_al_te_v2": {
+      "convtasnet": 31,
+      "tfgridnet": 94,
+      "reference": 100,
+      "sepformer": 74,
+      "vespa": 86,
+      "anchor_mixture": 49
+    },
+    "enka_koujounotsuki_le_al_ba_v1": {
+      "vespa": 74,
+      "anchor_mixture": 35,
+      "tfgridnet": 26,
+      "sepformer": 32,
+      "reference": 100,
+      "convtasnet": 0
+    },
+    "enka_koujounotsuki_le_al_ba_v2": {
+      "vespa": 88,
+      "anchor_mixture": 44,
+      "reference": 100,
+      "sepformer": 59,
+      "convtasnet": 61,
+      "tfgridnet": 88
+    },
+    "enka_koujounotsuki_le_al_ba_v3": {
+      "vespa": 73,
+      "convtasnet": 38,
+      "tfgridnet": 43,
+      "sepformer": 0,
+      "anchor_mixture": 17,
+      "reference": 100
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v1": {
+      "reference": 100,
+      "tfgridnet": 53,
+      "sepformer": 43,
+      "vespa": 67,
+      "convtasnet": 48,
+      "anchor_mixture": 45
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v2": {
+      "convtasnet": 0,
+      "anchor_mixture": 34,
+      "tfgridnet": 58,
+      "reference": 100,
+      "sepformer": 0,
+      "vespa": 66
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v3": {
+      "anchor_mixture": 36,
+      "vespa": 47,
+      "sepformer": 44,
+      "reference": 100,
+      "convtasnet": 60,
+      "tfgridnet": 80
+    }
+  }
+}

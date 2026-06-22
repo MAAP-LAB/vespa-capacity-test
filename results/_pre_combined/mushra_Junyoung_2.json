@@ -1,0 +1,96 @@
+{
+  "rater": "Junyoung",
+  "timestamp": "2026-06-04T07:47:16.055Z",
+  "ratings": {
+    "punk_rock_kaerutokumo_te_ba_v1": {
+      "anchor_mixture": 24,
+      "convtasnet": 95,
+      "vespa_rmvpe": 37,
+      "vespa": 43,
+      "sepformer": 96,
+      "tfgridnet": 46,
+      "reference": 100
+    },
+    "punk_rock_kaerutokumo_te_ba_v2": {
+      "vespa": 62,
+      "anchor_mixture": 37,
+      "vespa_rmvpe": 46,
+      "tfgridnet": 74,
+      "reference": 100,
+      "convtasnet": 92,
+      "sepformer": 98
+    },
+    "reggae_shoujoujinotanukibayashi_al_te_v1": {
+      "anchor_mixture": 32,
+      "convtasnet": 40,
+      "vespa_rmvpe": 93,
+      "tfgridnet": 71,
+      "reference": 100,
+      "vespa": 90,
+      "sepformer": 56
+    },
+    "reggae_shoujoujinotanukibayashi_al_te_v2": {
+      "reference": 100,
+      "tfgridnet": 100,
+      "vespa_rmvpe": 62,
+      "anchor_mixture": 39,
+      "vespa": 87,
+      "convtasnet": 30,
+      "sepformer": 84
+    },
+    "enka_koujounotsuki_le_al_ba_v1": {
+      "vespa": 79,
+      "tfgridnet": 38,
+      "anchor_mixture": 30,
+      "vespa_rmvpe": 70,
+      "reference": 100,
+      "sepformer": 34,
+      "convtasnet": 0
+    },
+    "enka_koujounotsuki_le_al_ba_v2": {
+      "reference": 100,
+      "convtasnet": 41,
+      "anchor_mixture": 18,
+      "tfgridnet": 62,
+      "vespa_rmvpe": 58,
+      "vespa": 63,
+      "sepformer": 72
+    },
+    "enka_koujounotsuki_le_al_ba_v3": {
+      "sepformer": 0,
+      "vespa_rmvpe": 59,
+      "vespa": 55,
+      "tfgridnet": 33,
+      "reference": 100,
+      "convtasnet": 30,
+      "anchor_mixture": 7
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v1": {
+      "anchor_mixture": 17,
+      "sepformer": 27,
+      "tfgridnet": 70,
+      "convtasnet": 41,
+      "reference": 100,
+      "vespa_rmvpe": 66,
+      "vespa": 68
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v2": {
+      "convtasnet": 0,
+      "vespa": 64,
+      "anchor_mixture": 21,
+      "tfgridnet": 79,
+      "reference": 100,
+      "vespa_rmvpe": 78,
+      "sepformer": 0
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v3": {
+      "vespa_rmvpe": 67,
+      "tfgridnet": 42,
+      "convtasnet": 33,
+      "anchor_mixture": 17,
+      "reference": 100,
+      "vespa": 84,
+      "sepformer": 57
+    }
+  }
+}

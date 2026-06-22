@@ -1,0 +1,86 @@
+{
+  "rater": "hyounghe0724",
+  "timestamp": "2026-05-31T07:43:44.892Z",
+  "ratings": {
+    "punk_rock_kaerutokumo_te_ba_v1": {
+      "convtasnet": 88,
+      "anchor_mixture": 9,
+      "vespa": 75,
+      "sepformer": 96,
+      "reference": 100,
+      "tfgridnet": 67
+    },
+    "punk_rock_kaerutokumo_te_ba_v2": {
+      "reference": 100,
+      "vespa": 11,
+      "convtasnet": 62,
+      "sepformer": 77,
+      "tfgridnet": 87,
+      "anchor_mixture": 3
+    },
+    "reggae_shoujoujinotanukibayashi_al_te_v1": {
+      "reference": 100,
+      "sepformer": 31,
+      "tfgridnet": 59,
+      "convtasnet": 22,
+      "anchor_mixture": 11,
+      "vespa": 29
+    },
+    "reggae_shoujoujinotanukibayashi_al_te_v2": {
+      "vespa": 55,
+      "tfgridnet": 93,
+      "reference": 100,
+      "convtasnet": 1,
+      "sepformer": 5,
+      "anchor_mixture": 1
+    },
+    "enka_koujounotsuki_le_al_ba_v1": {
+      "sepformer": 7,
+      "anchor_mixture": 2,
+      "vespa": 3,
+      "convtasnet": 0,
+      "reference": 100,
+      "tfgridnet": 54
+    },
+    "enka_koujounotsuki_le_al_ba_v2": {
+      "convtasnet": 2,
+      "anchor_mixture": 18,
+      "sepformer": 57,
+      "reference": 100,
+      "vespa": 55,
+      "tfgridnet": 38
+    },
+    "enka_koujounotsuki_le_al_ba_v3": {
+      "convtasnet": 9,
+      "tfgridnet": 54,
+      "sepformer": 0,
+      "reference": 100,
+      "anchor_mixture": 0,
+      "vespa": 19
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v1": {
+      "reference": 100,
+      "convtasnet": 18,
+      "anchor_mixture": 7,
+      "vespa": 23,
+      "tfgridnet": 39,
+      "sepformer": 18
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v2": {
+      "sepformer": 0,
+      "reference": 100,
+      "anchor_mixture": 11,
+      "convtasnet": 0,
+      "tfgridnet": 29,
+      "vespa": 27
+    },
+    "punk_rock_kaerutokumo_so_te_ba_v3": {
+      "anchor_mixture": 5,
+      "reference": 100,
+      "sepformer": 20,
+      "vespa": 9,
+      "tfgridnet": 15,
+      "convtasnet": 5
+    }
+  }
+}

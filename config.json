@@ -1,0 +1,299 @@
+{
+  "task": "MUSHRA-style: head-capacity comparison",
+  "scale": [
+    0,
+    100
+  ],
+  "rate_label": "Quality/naturalness vs reference",
+  "conditions_legend": {
+    "reference": "hidden reference",
+    "anchor_mixture": "anchor (mixture)",
+    "vespa_512": "VESPA head 512",
+    "vespa_1024": "VESPA head 1024",
+    "vespa_2048": "VESPA head 2048",
+    "vespa_4096": "VESPA head 4096"
+  },
+  "items": [
+    {
+      "id": "punk_rock_kaerutokumo_te_ba_v1",
+      "voice_count": 2,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "punk_rock_kaerutokumo_te_ba_v2",
+      "voice_count": 2,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "reggae_shoujoujinotanukibayashi_al_te_v1",
+      "voice_count": 2,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "reggae_shoujoujinotanukibayashi_al_te_v2",
+      "voice_count": 2,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "enka_koujounotsuki_le_al_ba_v1",
+      "voice_count": 3,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "enka_koujounotsuki_le_al_ba_v2",
+      "voice_count": 3,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "enka_koujounotsuki_le_al_ba_v3",
+      "voice_count": 3,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "punk_rock_kaerutokumo_so_te_ba_v1",
+      "voice_count": 3,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "punk_rock_kaerutokumo_so_te_ba_v2",
+      "voice_count": 3,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    },
+    {
+      "id": "punk_rock_kaerutokumo_so_te_ba_v3",
+      "voice_count": 3,
+      "conditions": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ],
+      "reference": "reference",
+      "anchor": "anchor_mixture",
+      "rate": [
+        "reference",
+        "anchor_mixture",
+        "convtasnet",
+        "sepformer",
+        "tfgridnet",
+        "vespa",
+        "vespa_1024",
+        "vespa_2048",
+        "vespa_4096"
+      ]
+    }
+  ],
+  "note": "MUSHRA: rate set includes a hidden reference (should be ~100) and a mixture anchor (should be low)."
+}
