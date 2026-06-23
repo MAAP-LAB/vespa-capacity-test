@@ -16,7 +16,8 @@
   "vespa_nfft4096": "VESPA n_fft=4096",
   "vespa_nfft8192": "VESPA n_fft=8192",
   "vespa_tlstm": "VESPA temporal-head (LSTM)",
-  "vespa_tconv": "VESPA temporal-head (conv)"
+  "vespa_tconv": "VESPA temporal-head (conv)",
+  "vespa_v4": "VESPA refiner v4 (MR-STFT)"
  },
  "items": [
   {
@@ -33,7 +34,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -48,7 +50,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -65,7 +68,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -80,7 +84,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -97,7 +102,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -112,7 +118,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -129,7 +136,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -144,7 +152,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -161,7 +170,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -176,7 +186,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -193,7 +204,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -208,7 +220,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -225,7 +238,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -240,7 +254,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -257,7 +272,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -272,7 +288,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -289,7 +306,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -304,7 +322,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   },
   {
@@ -321,7 +340,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
@@ -336,7 +356,8 @@
     "vespa_nfft4096",
     "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv"
+    "vespa_tconv",
+    "vespa_v4"
    ]
   }
  ],
