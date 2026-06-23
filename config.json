@@ -8,11 +8,7 @@
  "conditions_legend": {
   "reference": "hidden reference",
   "anchor_mixture": "anchor (mixture)",
-  "vespa_512": "VESPA head 512",
-  "vespa_1024": "VESPA head 1024",
-  "vespa_2048": "VESPA head 2048",
-  "vespa_4096": "VESPA head 4096",
-  "vespa_wiener": "VESPA 1024 + Wiener",
+  "vespa_1024": "VESPA",
   "vespa_refiner": "VESPA + refiner (stage-2)",
   "vespa_refiner_gated": "VESPA + refiner + voicing-gate"
  },
@@ -23,11 +19,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -36,11 +28,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -51,11 +39,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -64,11 +48,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -79,11 +59,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -92,11 +68,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -107,11 +79,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -120,11 +88,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -135,11 +99,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -148,11 +108,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -163,11 +119,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -176,11 +128,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -191,11 +139,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -204,11 +148,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -219,11 +159,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -232,11 +168,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -247,11 +179,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -260,11 +188,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
@@ -275,11 +199,7 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ],
@@ -288,11 +208,7 @@
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_512",
     "vespa_1024",
-    "vespa_2048",
-    "vespa_4096",
-    "vespa_wiener",
     "vespa_refiner",
     "vespa_refiner_gated"
    ]
