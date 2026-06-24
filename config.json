@@ -8,16 +8,9 @@
  "conditions_legend": {
   "reference": "hidden reference",
   "anchor_mixture": "anchor (mixture)",
-  "vespa_1024": "VESPA",
-  "vespa_refiner": "VESPA + refiner (stage-2)",
-  "vespa_refiner_gated": "VESPA + refiner + voicing-gate",
-  "vespa_v2": "VESPA + refiner v2 (consistency)",
-  "vespa_v2_gated": "VESPA + refiner v2 + gate",
-  "vespa_nfft4096": "VESPA n_fft=4096",
-  "vespa_nfft8192": "VESPA n_fft=8192",
-  "vespa_tlstm": "VESPA temporal-head (LSTM)",
-  "vespa_tconv": "VESPA temporal-head (conv)",
-  "vespa_v4": "VESPA refiner v4 (MR-STFT)"
+  "vespa_tlstm": "VESPA (temporal, ours)",
+  "vespa_1024": "VESPA (plain, no temporal)",
+  "vespa_v2": "VESPA + complex refiner"
  },
  "items": [
   {
@@ -26,32 +19,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -60,32 +39,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -94,32 +59,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -128,32 +79,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -162,32 +99,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -196,32 +119,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -230,32 +139,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -264,32 +159,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -298,32 +179,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   },
   {
@@ -332,32 +199,18 @@
    "conditions": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ],
    "reference": "reference",
    "anchor": "anchor_mixture",
    "rate": [
     "reference",
     "anchor_mixture",
-    "vespa_1024",
-    "vespa_refiner",
-    "vespa_refiner_gated",
-    "vespa_v2",
-    "vespa_v2_gated",
-    "vespa_nfft4096",
-    "vespa_nfft8192",
     "vespa_tlstm",
-    "vespa_tconv",
-    "vespa_v4"
+    "vespa_1024",
+    "vespa_v2"
    ]
   }
  ],
